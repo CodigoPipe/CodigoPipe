@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CodigoPipe 
 - 👀 I am an international negotiator/web developer from the city of Medellin, a self-taught student passionate about the world of technology.
-- 🌱 I’m currently learning REACT js and SQL
+- 🌱 I’m a backend dev with java and spring, but love to work with angular in the frontend as well
 - 📫 How to reach me...@felipe_gil10 on instagram
 
 <!---
